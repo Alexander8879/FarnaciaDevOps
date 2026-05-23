@@ -25,7 +25,6 @@ C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\stat
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\Farnacia.36E7CA8E.Up2Date
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\FarnaciaDevOps.dll
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\refint\FarnaciaDevOps.dll
@@ -35,3 +34,4 @@ C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\ref\
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ignac\source\repos\FarnaciaDevOps\FarnaciaDevOps\obj\Debug\net10.0\FarnaciaDevOps.sourcelink.json
