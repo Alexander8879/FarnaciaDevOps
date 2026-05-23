@@ -25,7 +25,7 @@ steps:
   displayName: 'Build Docker Image'
   inputs:
     command: 'build'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: 'FarnaciaDevOps/Dockerfile'
     repository: 'farnaciadevops'
     tags: |
       latest
